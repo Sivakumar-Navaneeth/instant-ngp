@@ -61,7 +61,7 @@ Drag `data/sdf/armadillo.obj` into the window or use the command:
 ```sh
 instant-ngp$ ./instant-ngp data/sdf/armadillo.obj
 ```
-
+ 
 <img src="docs/assets_readme/armadillo.png"/>
 
 ### Image of Einstein
